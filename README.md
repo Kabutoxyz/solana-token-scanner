@@ -1,0 +1,1 @@
+# solana-token-scanner\n\nReal-time Solana token scanner with market cap, holder quality, and momentum analysis\n\n## Usage\n```bash\npython main.py\n```
